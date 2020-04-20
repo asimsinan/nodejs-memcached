@@ -11,7 +11,7 @@ var dersbilgisi = {
                'ders' : 'Yazılım Mühendisliği',
                'konu' : 'NodeJS ile Memcached Kullanımı',
                "ogretimuyesi":'Asım Sinan Yüksel',
-               "eposta":'a.sinanyuksel@gmail.com'
+               "eposta":'eposta adresi'
             }
 
 // nesne dersbilgisi anahtarında  10 saniye tutuluyor
