@@ -1,0 +1,15 @@
+{
+  "name": "memcached",
+  "version": "1.0.0",
+  "description": "NodeJS memcached kullanımı",
+  "main":"index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Asım Sinan Yüksel",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "memcached": "*"
+  }
+}
